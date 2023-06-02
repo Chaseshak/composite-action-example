@@ -1,4 +1,4 @@
-name: templates_alternative
+name: 'Hello World'
 description: 'Greet someone'
 inputs:
   who-to-greet:  # id of input
